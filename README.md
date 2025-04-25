@@ -5,12 +5,6 @@
 </p>
 
 ---
-### ✨ Por que escolhi a programação?
-
-Sempre gostei de resolver problemas de forma lógica e criativa — e foi assim que descobri a programação. Me apaixonei pelo desenvolvimento de software por ser uma área onde posso aprender constantemente, criar soluções e ajudar pessoas. Cada linha de código é mais do que uma tarefa: é uma chance de fazer a diferença, de tornar o mundo mais conectado e acessível. Esse desafio diário me motiva a evoluir e buscar formas cada vez melhores de transformar ideias em realidade.
-
----
-
 ### 🧰 Tecnologias que uso no dia a dia:
 
 <div style="display: inline_block"><br>
