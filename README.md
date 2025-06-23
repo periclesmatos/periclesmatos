@@ -30,12 +30,12 @@ Sou **Desenvolvedor de Software** com foco em **backend Java**, apaixonado por c
 
 ---
 
-## 📈 Estatísticas (opcional)
+## 📈 Estatísticas
 
 <!-- GitHub stats (você pode ajustar os temas) -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pericles-matos&show_icons=true&theme=github_dark&hide=prs&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pericles-matos&layout=compact&langs_count=6&theme=github_dark&hide=html&exclude_repo=repo-antigo"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=periclesmatos&show_icons=true&theme=github_dark&hide=prs&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmatos&layout=compact&langs_count=6&theme=github_dark&hide=html&exclude_repo=repo-antigo"/>
 </p>
 
 ---
