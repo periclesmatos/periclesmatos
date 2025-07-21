@@ -19,12 +19,30 @@
 </div>
 
 <div>
-  <h3>💻 Linguagens e Frameworks</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,js,react" alt="Tech stack" /></a>
+  <h3>💻 Linguagens</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js" alt="Languages" />
+  </a>
+  
+  <h3>⚙️ Frameworks & Bibliotecas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,react" alt="Frameworks" />
+  </a>
+  
   <h3>🛢️ Bancos de Dados</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+  </a>
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud & DevOps" />
+  </a>
+  
   <h3>🛠️ Ferramentas e Ambientes de Desenvolvimento</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker" alt="Tools" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,maven,postman" alt="Tools" />
+  </a>
 </div>
 
 <hr>
