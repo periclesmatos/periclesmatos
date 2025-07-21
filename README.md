@@ -6,22 +6,26 @@
 </p>
 
 
-## 🧑‍💻 Sobre mim
+<h3>🧑‍💻 Sobre mim</h3> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-Sou graduando em <strong>Análise e Desenvolvimento de Sistemas pela Unifor</strong>, onde desenvolvo uma base sólida para minha carreira como Desenvolvedor de Software.<br><br>
-Tenho foco em <strong>backend Java</strong> e sou apaixonado por criar soluções escaláveis, bem estruturadas e com alta qualidade de código.<br><br>
-Além disso, possuo experiência com <strong>frontend moderno utilizando React</strong> e uma base consistente em <strong>Python</strong>, o que me confere versatilidade para atuar em projetos full stack sempre que necessário.<br><br>
-Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas práticas de desenvolvimento</strong>, <strong>testes automatizados</strong> e <strong>arquiteturas limpas e sustentáveis</strong>, onde eu possa contribuir efetivamente para a excelência dos produtos.🚀
-</p>
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <p align="left"> 
+  Sou graduando em <strong>Análise e Desenvolvimento de Sistemas pela Unifor</strong>, onde desenvolvo uma base sólida para minha carreira como Desenvolvedor de Software.<br><br>
+  Tenho foco em <strong>backend Java</strong> e sou apaixonado por criar soluções escaláveis, bem estruturadas e com alta qualidade de código.<br><br>
+  Além disso, possuo experiência com <strong>frontend moderno utilizando React</strong> e uma base consistente em <strong>Python</strong>, o que me confere versatilidade para atuar em projetos full stack sempre que necessário.<br><br>
+  Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas práticas de desenvolvimento</strong>, <strong>testes automatizados</strong> e <strong>arquiteturas limpas e sustentáveis</strong>, onde eu possa contribuir efetivamente para a excelência    dos produtos.🚀
+  </p>
+</div>
 
-### 💻 Linguagens e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,js,react)](https://skillicons.dev)
-### 🛢️ Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-### 🛠️ Ferramentas e Ambientes de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker)](https://skillicons.dev)
+<div>
+  <h3>💻 Linguagens e Frameworks</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,js,react" alt="Tech stack" /></a>
+  <h3>🛢️ Bancos de Dados</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" /></a>
+  <h3>🛠️ Ferramentas e Ambientes de Desenvolvimento</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker" alt="Tools" /></a>
+</div>
 
 <hr>
 <picture>
@@ -31,7 +35,7 @@ Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas
 </picture>
 <hr>
 
-## 📫 Contato
+<h3>📫 Contato</h3> 
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:periclesdev19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periclesm/)
