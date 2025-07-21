@@ -23,14 +23,13 @@ Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas
 ### 🛠️ Ferramentas e Ambientes de Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker)](https://skillicons.dev)
 
-<br>
-
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
-
+<hr>
 
 ## 📫 Contato
 
