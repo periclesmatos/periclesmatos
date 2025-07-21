@@ -17,18 +17,19 @@ Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas
 </p>
 
 ### 💻 Linguagens e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,py,fastapi,ts,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,js,react)](https://skillicons.dev)
 ### 🛢️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 ### 🛠️ Ferramentas e Ambientes de Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=periclesmatos&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmatos&layout=compact&theme=tokyonight"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## 📫 Contato
