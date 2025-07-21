@@ -1,47 +1,42 @@
-# 👋 Olá, eu sou o Péricles Matos!
-
-Sou **Desenvolvedor de Software** com foco em **backend Java**, apaixonado por construir soluções escaláveis, bem estruturadas e com atenção à qualidade do código. Também tenho experiência com **frontend moderno em React** e uma boa base com **Python**, o que me torna versátil para atuar em projetos full stack quando necessário.
-
-🎯 **Atualmente busco oportunidades para contribuir em equipes que valorizam boas práticas, testes automatizados e arquitetura limpa.**
-
-
-## 🚀 Tecnologias que trabalho
-
-### 🧠 Backend
-- **Java (SE / Spring Boot / Jakarta EE)**
-- **Python (FastAPI / Django)**
-- Microsserviços, APIs REST, autenticação com JWT / OAuth2
-- Testes automatizados com **JUnit**, **Mockito**, **Pytest**
-
-### 🎨 Frontend
-- **React** com Hooks, Context API e Zustand
-- Integração com APIs REST, foco em usabilidade
-
-### 🛢️ Banco de dados
-- MySQL, PostgreSQL (produção)
-- SQLite, H2 (testes e desenvolvimento local)
-- ORM com JPA / Hibernate e Alembic (Python)
-
-### ⚙️ Ferramentas & DevOps
-- Docker, Git, GitHub Actions
-- Swagger/OpenAPI, GitOps básico
-- Familiaridade com AWS (EC2, S3, RDS)
-
-
-## 📈 Estatísticas do GitHub
-
+<h1 align="center">Olá! Eu sou o Péricles Matos 👋</h1>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=periclesmatos&show_icons=true&theme=github_dark&hide=prs&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmatos&layout=compact&langs_count=6&theme=github_dark&hide=html"/>
+  <strong>Desenvolvedor Backend Java em formação</strong><br>
+  Apaixonado por tecnologia, backend e boas práticas de código limpo.
 </p>
 
 
-## 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/pericles-matos)
-- ✉️ Email: *periclesdev19@gmail.com*
+## 🧑‍💻 Sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> 
+<strong>Sou graduando em Análise e Desenvolvimento de Sistemas pela Unifor.</strong><br><br>
+Atuo como <strong>Desenvolvedor de Software com foco em backend Java</strong>, apaixonado por construir soluções escaláveis, bem estruturadas e com atenção à qualidade do código.<br><br>
+Também possuo experiência com <strong>frontend moderno em React</strong> e uma base sólida em <strong>Python</strong>, o que me torna versátil para contribuir em projetos full stack sempre que necessário.<br><br>
+<strong>Atualmente, estou em busca de oportunidades para colaborar com equipes que valorizam boas práticas, testes automatizados e uma arquitetura limpa e sustentável.</strong> 🚀
+</p>
+
+### 💻 Linguagens e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,py,fastapi,ts,js,react)](https://skillicons.dev)
+### 🛢️ Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+### 🛠️ Ferramentas e Ambientes de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,maven,postman,docker)](https://skillicons.dev)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=periclesmatos&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclesmatos&layout=compact&theme=tokyonight"/>
+</p>
 
 
-⭐ **Dica:** veja os repositórios fixados para exemplos reais de projetos Java, APIs REST, testes e boas práticas.
+## 📫 Contato
 
-Obrigado pela visita!
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:periclesdev19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periclesm/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/periclesmatos)
+
+
+<p align="center">🧠 Em constante evolução e aprendizado!</p>
+
