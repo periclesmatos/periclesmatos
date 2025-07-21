@@ -10,10 +10,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-<strong>Sou graduando em Análise e Desenvolvimento de Sistemas pela Unifor.</strong><br><br>
-Atuo como <strong>Desenvolvedor de Software com foco em backend Java</strong>, apaixonado por construir soluções escaláveis, bem estruturadas e com atenção à qualidade do código.<br><br>
-Também possuo experiência com <strong>frontend moderno em React</strong> e uma base sólida em <strong>Python</strong>, o que me torna versátil para contribuir em projetos full stack sempre que necessário.<br><br>
-<strong>Atualmente, estou em busca de oportunidades para colaborar com equipes que valorizam boas práticas, testes automatizados e uma arquitetura limpa e sustentável.</strong> 🚀
+Sou graduando em <strong>Análise e Desenvolvimento de Sistemas pela Unifor</strong>, onde desenvolvo uma base sólida para minha carreira como Desenvolvedor de Software.<br><br>
+Tenho foco em <strong>backend Java</strong> e sou apaixonado por criar soluções escaláveis, bem estruturadas e com alta qualidade de código.<br><br>
+Além disso, possuo experiência com <strong>frontend moderno utilizando React</strong> e uma base consistente em <strong>Python</strong>, o que me confere versatilidade para atuar em projetos full stack sempre que necessário.<br><br>
+Atualmente, busco oportunidades para integrar equipes que valorizem <strong>boas práticas de desenvolvimento</strong>, <strong>testes automatizados</strong> e <strong>arquiteturas limpas e sustentáveis</strong>, onde eu possa contribuir efetivamente para a excelência dos produtos.🚀
 </p>
 
 ### 💻 Linguagens e Frameworks
