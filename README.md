@@ -34,11 +34,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
   </a>
   
-  <h3>☁️ Cloud & DevOps</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud & DevOps" />
-  </a>
-  
   <h3>🛠️ Ferramentas e Ambientes de Desenvolvimento</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,maven,postman" alt="Tools" />
