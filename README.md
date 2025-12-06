@@ -36,7 +36,7 @@
   
   <h3>🛠️ Ferramentas e Ambientes de Desenvolvimento</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,maven,postman" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,maven,postman,docker" alt="Tools" />
   </a>
 </div>
 
