@@ -26,7 +26,7 @@
   
   <h3>⚙️ Frameworks & Bibliotecas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,react" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react" alt="Frameworks" />
   </a>
   
   <h3>🛢️ Bancos de Dados</h3>
