@@ -21,17 +21,17 @@
 <div>
   <h3>💻 Linguagens</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js,dart" alt="Languages" />
   </a>
   
   <h3>⚙️ Frameworks & Bibliotecas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react,flutter" alt="Frameworks" />
   </a>
   
   <h3>🛢️ Bancos de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" alt="Databases" />
   </a>
   
   <h3>🛠️ Ferramentas e Ambientes de Desenvolvimento</h3>
